@@ -1,5 +1,5 @@
-<h1 align="center">👋 Hello, I'm <span style="color:#4fc3f7;">Badhan Roy Amit</span></h1>
-<h3 align="center"><i>Aspiring Software Engineer | Machine Learning Enthusiast | Web & IoT Developer</i></h3>
+<h1 align="center">Hello, I'm <span style="color:#4fc3f7;">Badhan Roy Amit</span></h1>
+<h3 align="center"><i>Aspiring Web Developer | Machine Learning Enthusiast</i></h3>
 
 ---
 
