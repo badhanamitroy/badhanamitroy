@@ -34,17 +34,6 @@
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
 </p>
 
----
-
-### 💼 Featured Projects
-
-| Project | Description | Tech Used |
-|--------|-------------|------------|
-| **Vector Disease Prediction Model** | Predicts disease outbreaks based on vector data & symptoms. | Python, ML, Pandas, Sklearn |
-| **DaakPion – Online Chatting App** | Real-time messaging app for secure communication. | HTML, CSS, PHP, MySQL |
-
----
-
 ### 📈 GitHub Stats
 
 <p align="center">
