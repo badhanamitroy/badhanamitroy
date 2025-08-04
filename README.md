@@ -1,5 +1,3 @@
----
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=0099CC&center=true&width=480&lines=Learning+%26+Building+Everyday.;Turning+ideas+into+digital+realities.;Fusing+creativity+%2B+code+%F0%9F%96%A5%EF%B8%8F" alt="Typing SVG" />
 </p>
