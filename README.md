@@ -1,21 +1,87 @@
-<h1 align="center">Hi 👋, I'm Badhan Roy</h1>
-<h3 align="center">A passionate developer from Bangladesh</h3>
+<h1 align="center">👋 Hello, I'm <span style="color:#4fc3f7;">Badhan Roy Amit</span></h1>
+<h3 align="center"><i>Aspiring Software Engineer | Machine Learning Enthusiast | Web & IoT Developer</i></h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=badhanamitroy&label=Profile%20views&color=0e75b6&style=flat" alt="badhanamitroy" /> </p>
+---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=badhanamitroy" alt="badhanamitroy" /></a> </p>
-
-- 🔭 I’m currently working on **DaakPion-an Online Chatting App**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=0099CC&center=true&width=480&lines=Learning+%26+Building+Everyday.;Turning+ideas+into+digital+realities.;Fusing+creativity+%2B+code+%F0%9F%96%A5%EF%B8%8F" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=badhanamitroy&show_icons=true&locale=en&layout=compact" alt="badhanamitroy" /></p>
+### 🔍 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=badhanamitroy&show_icons=true&locale=en" alt="badhanamitroy" /></p>
+- 🚀 Passionate about solving real-world problems with code.
+- 🤖 Currently developing an **ML project**: `Vector Disease Prediction Model` using Python, Pandas & Sklearn.
+- 💬 Building a full-stack chat platform: `DaakPion – A Real-Time Chatting App`.
+- 🧠 Constantly exploring: `AI`, `Web Security`, `APIs`, `Full-stack Integration`, and `Performance Optimization`.
+- 🎯 Long-term goal: Become a **lead developer** contributing to the Bangladeshi tech ecosystem.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=badhanamitroy&" alt="badhanamitroy" /></p>
+---
+
+### 🔧 Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+</p>
+
+---
+
+### 💼 Featured Projects
+
+| Project | Description | Tech Used |
+|--------|-------------|------------|
+| **Vector Disease Prediction Model** | Predicts disease outbreaks based on vector data & symptoms. | Python, ML, Pandas, Sklearn |
+| **DaakPion – Online Chatting App** | Real-time messaging app for secure communication. | HTML, CSS, PHP, MySQL |
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=badhanamitroy&show_icons=true&theme=github_dark&hide=contribs&border_radius=8&title_color=58A6FF&icon_color=58A6FF" />
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=badhanamitroy&theme=dark&date_format=M%20j%5B%2C%20Y%5D&currStreakLabel=58A6FF" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=badhanamitroy&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
+</p>
+
+---
+
+### 🏆 Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=badhanamitroy&theme=flat&title=Stars,Commits,Followers,Repositories,PullRequest&margin-w=12&no-frame=true" />
+</p>
+
+---
+
+### 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/your-link-here" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:badhanamitroy@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/badhanamitroy" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+### ✍️ Quote of the Day
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+</p>
