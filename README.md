@@ -6,6 +6,9 @@
 
 ### 🔍 About Me
 
+🎓 Currently pursuing a B.Sc. in Computer Science & Engineering (CSE) at
+Port City International University, Bangladesh.
+
 - 🚀 Passionate about solving real-world problems with code.
 - 🤖 Currently developing an **ML project**: `Vector Disease Prediction Model` using Python, Pandas & Sklearn.
 - 💬 Building a full-stack chat platform: `DaakPion – A Real-Time Chatting App`.
