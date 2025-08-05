@@ -10,7 +10,7 @@
 Port City International University, Bangladesh.
 
 - 🚀 Passionate about solving real-world problems with code.
-- 🤖 Currently developing an **ML project**: `Vector Disease Prediction Model` using Python, Pandas & Sklearn.
+- 🤖 Currently working on an **ML project**
 - 💬 Building a full-stack chat platform: `DaakPion – A Real-Time Chatting App`.
 - 🧠 Constantly exploring: `AI`, `SQA`, `Full-stack Integration`, and `Performance Optimization`.
 - 🎯 Long-term goal: Become a **lead developer** contributing to the Bangladeshi tech ecosystem.
