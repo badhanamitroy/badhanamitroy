@@ -9,7 +9,7 @@
 - 🚀 Passionate about solving real-world problems with code.
 - 🤖 Currently developing an **ML project**: `Vector Disease Prediction Model` using Python, Pandas & Sklearn.
 - 💬 Building a full-stack chat platform: `DaakPion – A Real-Time Chatting App`.
-- 🧠 Constantly exploring: `AI`, `Web Security`, `APIs`, `Full-stack Integration`, and `Performance Optimization`.
+- 🧠 Constantly exploring: `AI`, 'SQA', `Full-stack Integration`, and `Performance Optimization`.
 - 🎯 Long-term goal: Become a **lead developer** contributing to the Bangladeshi tech ecosystem.
 
 ---
@@ -24,9 +24,7 @@
   <img src="https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
 </p>
 
 ### 📈 GitHub Stats
@@ -47,7 +45,6 @@
 </div>
 
 ---
-
 
 ### 🏆 Trophies
 
