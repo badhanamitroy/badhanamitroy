@@ -29,14 +29,16 @@ Port City International University, Bangladesh.
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 </p>
 
+---
+<p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=badhanamitroy&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
+</p>
 ### 📈 GitHub Stats
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=badhanamitroy&show_icons=true&theme=github_dark&hide=contribs&border_radius=8&title_color=58A6FF&icon_color=58A6FF" />
   <br><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=badhanamitroy&theme=dark&date_format=M%20j%5B%2C%20Y%5D&currStreakLabel=58A6FF" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=badhanamitroy&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
 </p>
 
 ---
