@@ -36,13 +36,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=badhanamitroy&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
 </p>
 
-<h3>📌 Recent Activity</h3>
-
-<div align="center" style="background-color:#0d1117; padding: 20px; border-radius: 10px; box-shadow: 0 2px 10px rgba(0,0,0,0.2);">
-  <img src="https://raw.githubusercontent.com/badhanamitroy/badhanamitroy/main/assets/contribution-graph.png" alt="Contribution Graph" width="700"/>
-  <p><i><small style="color: #8b949e;">GitHub contribution trend over the past month</small></i></p>
-</div>
-
 ---
 
 ### 🏆 Trophies
