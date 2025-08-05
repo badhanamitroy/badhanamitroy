@@ -31,7 +31,7 @@ Port City International University, Bangladesh.
 
 ### 📈 GitHub Stats
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=badhanamitroy&show_icons=true&theme=github_dark&hide=contribs&border_radius=8&title_color=58A6FF&icon_color=58A6FF" />
   <br><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=badhanamitroy&theme=dark&date_format=M%20j%5B%2C%20Y%5D&currStreakLabel=58A6FF" />
@@ -40,12 +40,6 @@ Port City International University, Bangladesh.
 </p>
 
 ---
-
-### 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=badhanamitroy&theme=flat&title=Stars,Commits,Followers,Repositories,PullRequest&margin-w=12&no-frame=true" />
-</p>
 
 ---
 
