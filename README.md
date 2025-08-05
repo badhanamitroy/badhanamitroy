@@ -38,7 +38,7 @@
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=badhanamitroy&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
 </p>
-
+https://raw.githubusercontent.com/badhanamitroy/badhanamitroy/main/assets/contribution-graph.png
 <p align="center">
   <img src="https://raw.githubusercontent.com/badhanamitroy/badhanamitroy/main/assets/contribution-graph.png" alt="Contribution Graph" width="700"/>
   <br />
