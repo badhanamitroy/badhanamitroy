@@ -43,6 +43,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=badhanamitroy&theme=dark" alt="GitHub Streak" />
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=badhanamitroy&layout=compact&theme=github_dark&hide_border=true&langs_count=6" alt="Top Languages" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=badhanamitroy&theme=dark&date_format=M%20j%5B%2C%20Y%5D&currStreakLabel=DD2727&fire=DD2727&sideNums=DD2727&currStreakNum=DD2727&ring=DD2727&sideLabels=DD2727&background=00000000&stroke=DD2727&border=DD2727&hide_border=false&v=1" />
+
 </p>
 
 ---
