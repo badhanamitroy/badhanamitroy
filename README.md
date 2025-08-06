@@ -40,12 +40,9 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=badhanamitroy&show_icons=true&theme=github_dark&hide=contribs&border_radius=8&title_color=58A6FF&icon_color=58A6FF" alt="GitHub Stats" />
   <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=badhanamitroy&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=badhanamitroy&theme=dark&date_format=M%20j%5B%2C%20Y%5D&currStreakLabel=58A6FF&fire=FF8C00&sideNums=58A6FF&currStreakNum=FF8C00&ring=58A6FF&sideLabels=58A6FF&background=0D1117&hide_border=false&v=4" alt="GitHub Streak" />
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=badhanamitroy&layout=compact&theme=github_dark&hide_border=true&langs_count=6" alt="Top Languages" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=badhanamitroy&theme=dark&date_format=M%20j%5B%2C%20Y%5D&currStreakLabel=DD2727&fire=DD2727&sideNums=DD2727&currStreakNum=DD2727&ring=DD2727&sideLabels=DD2727&background=00000000&stroke=DD2727&border=DD2727&hide_border=false&v=1" />
-
 </p>
 
 ---
