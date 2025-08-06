@@ -14,7 +14,8 @@
 
 - 🚀 Passionate about turning ideas into scalable solutions  
 - 🤖 Currently developing an **ML-based project**  
-- 💬 Building `DaakPion` – A real-time chat app  
+- 💬 Building `DaakPion` – A real-time chat app
+- Currently Exploring `SQA`
 - 🧠 Exploring: `AI`, `Software Testing`, `Full-stack`, `Optimization`  
 - 🌱 Committed to growing within the Bangladeshi tech ecosystem  
 - 🥅 Goal: Become a **lead developer** solving meaningful problems  
