@@ -13,8 +13,6 @@
 🏛️ Port City International University, Bangladesh  
 
 - 🚀 Passionate about turning ideas into scalable solutions  
-- 🤖 Currently developing an **ML-based project**  
-- 💬 Building `DaakPion` – A real-time chat app
 - 🧠 Exploring: `AI`, `Software Testing`, `Full-stack`, `Optimization`  
 - 🌱 Committed to growing within the Bangladeshi tech ecosystem  
 - 🥅 Goal: Become a **lead developer** solving meaningful problems  
