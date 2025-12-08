@@ -1,6 +1,6 @@
 # Badhan Roy
 
-**Computer Science & Engineering Graduate | Full-Stack Developer | Problem Solver**
+**Final Year Undergrad Student | Computer Science & Engineering**
 
 📍 Chattogram, Bangladesh | 📧 badhanamitroy@gmail.com | 💼 [LinkedIn](https://linkedin.com/in/your-link-here)
 
@@ -8,7 +8,7 @@
 
 ## Professional Summary
 
-Computer Science & Engineering graduate from Port City International University with a strong foundation in full-stack development and software engineering principles. Experienced in building scalable web applications using modern technologies. Passionate about leveraging technology to create impactful solutions within the Bangladeshi tech ecosystem.
+Undergrad Student of Computer Science & Engineering from Port City International University with a medium foundation in full-stack development and software engineering principles. Experienced in building scalable web applications using modern technologies. Passionate about leveraging technology to create impactful solutions within the Bangladeshi tech ecosystem.
 
 ---
 
