@@ -1,68 +1,72 @@
+# Badhan Roy
+
+**Computer Science & Engineering Graduate | Full-Stack Developer | Problem Solver**
+
+📍 Chattogram, Bangladesh | 📧 badhanamitroy@gmail.com | 💼 [LinkedIn](https://linkedin.com/in/your-link-here)
+
+---
+
+## Professional Summary
+
+Computer Science & Engineering graduate from Port City International University with a strong foundation in full-stack development and software engineering principles. Experienced in building scalable web applications using modern technologies. Passionate about leveraging technology to create impactful solutions within the Bangladeshi tech ecosystem.
+
+---
+
+## Technical Skills
+
+**Languages:** PHP, Python, JavaScript, C++, SQL  
+**Web Technologies:** HTML5, CSS3, JavaScript (ES6+)  
+**Database:** MySQL  
+**Core Competencies:** Software Testing, Algorithm Design, Full-Stack Development, System Optimization  
+**Areas of Interest:** Artificial Intelligence, Software Quality Assurance, Web Application Architecture
+
+---
+
+## Education
+
+**Bachelor of Science in Computer Science & Engineering**  
+Port City International University, Bangladesh  
+*Focus Areas: Software Development, Database Systems, Algorithms & Data Structures*
+
+---
+
+## Professional Interests
+
+- **Current Focus:** Building robust full-stack applications and exploring AI integration
+- **Research Interests:** Software testing methodologies, performance optimization, and scalable system design
+- **Career Goal:** Advancing to a lead developer role where I can architect solutions that address real-world challenges
+
+---
+
+## GitHub Statistics
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=0099CC&center=true&width=480&lines=Learning+%26+Building+Everyday.;Turning+ideas+into+digital+realities.;Fusing+creativity+%2B+code+%F0%9F%96%A5%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://github-readme-stats.vercel.app/api?username=badhanamitroy&show_icons=true&theme=github_dark&hide=contribs&border_radius=8&title_color=58A6FF&icon_color=58A6FF" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=badhanamitroy&layout=compact&theme=github_dark&hide_border=true&langs_count=6" alt="Top Languages" height="165"/>
 </p>
 
-<h1 align="center">Hi, I'm Badhan Roy 👋</h1>
-<h3 align="center">A Developer, Innovator & Life-Long Learner</h3>
-
----
-
-### 👨‍💻 About Me
-
-🎓 B.Sc. in Computer Science & Engineering (CSE)  
-🏛️ Port City International University, Bangladesh  
-
-- 🚀 Passionate about turning ideas into scalable solutions  
-- 🧠 Exploring: `AI`, `Software Testing`, `Full-stack`, `Optimization`  
-- 🌱 Committed to growing within the Bangladeshi tech ecosystem  
-- 🥅 Goal: Become a **lead developer** solving meaningful problems  
-
----
-
-### ⚙️ Tech Stack
-
 <p align="center">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=badhanamitroy&theme=dark&date_format=M%20j%5B%2C%20Y%5D&currStreakLabel=58A6FF&fire=FF8C00&sideNums=58A6FF&currStreakNum=FF8C00&ring=58A6FF&sideLabels=58A6FF&background=0D1117&hide_border=false" alt="GitHub Streak"/>
 </p>
 
 ---
 
-### 📊 GitHub Insights
+## Connect With Me
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=badhanamitroy&show_icons=true&theme=github_dark&hide=contribs&border_radius=8&title_color=58A6FF&icon_color=58A6FF" alt="GitHub Stats" />
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=badhanamitroy&theme=dark&date_format=M%20j%5B%2C%20Y%5D&currStreakLabel=58A6FF&fire=FF8C00&sideNums=58A6FF&currStreakNum=FF8C00&ring=58A6FF&sideLabels=58A6FF&background=0D1117&hide_border=false&v=4" alt="GitHub Streak" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=badhanamitroy&layout=compact&theme=github_dark&hide_border=true&langs_count=6" alt="Top Languages" />
-</p>
-
----
-
-### 🌐 Connect with Me
-
-<p align="center">
+<p align="left">
   <a href="https://linkedin.com/in/your-link-here" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:badhanamitroy@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://github.com/badhanamitroy" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
 ---
 
-### 💡 Quote of the Day
-
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+  <i>Open to collaboration on innovative projects and professional opportunities</i>
 </p>
