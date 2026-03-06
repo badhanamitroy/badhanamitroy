@@ -18,7 +18,7 @@ Undergrad Student of Computer Science & Engineering from Port City International
 **Web Technologies:** HTML5, CSS3, JavaScript (ES6+)  
 **Database:** MySQL  
 **Core Competencies:** Algorithm Design, Full-Stack Development, System Optimization  
-**Areas of Interest:** Artificial Intelligence, Software Quality Assurance, Web Application Architecture
+**Areas of Interest:** Research, Machine Learning, Artificial Intelligence, Web Application Architecture
 
 ---
 
