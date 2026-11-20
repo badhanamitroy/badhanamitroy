@@ -66,18 +66,19 @@ I enjoy learning by building, investigating technical challenges, and turning id
 
 ## 🚀 Selected Projects & Research
 
-### 🩺 MedAssistBD — Explainable & Uncertainty-Aware Medical Decision Support
+### 🩺 DocBot 2026 — Explainable & Uncertainty-Aware Medical Decision Support
 
-An academic research project exploring machine learning for symptom-based disease prediction, with a focus on explainability and responsible AI-assisted healthcare support.
+An academic research project focused on developing an explainable, uncertainty-aware machine learning system for symptom-based disease prediction and medical decision support.
 
-- Developed an ensemble classification approach using Logistic Regression, SVC, and LightGBM.
-- Incorporated SHAP-based explanations and probability calibration.
-- Explored uncertainty-aware predictions and abstention mechanisms.
-- Integrated Bangladesh-focused medicine information into the knowledge base.
+- Developed a soft-voting ensemble using Logistic Regression, SVC (RBF), and LightGBM.
+- Integrated SHAP-based explanations for model interpretability.
+- Implemented probability calibration and uncertainty-aware abstention mechanisms.
+- Developed a Bangladesh-focused medicine knowledge base covering generic medicines and local brands.
+- Explored an editable knowledge-management workflow for maintaining medical information.
 
-**Research Results:** 91.54% classification accuracy and 0.9002 Macro F1-score on the evaluated dataset.
+**Research Results:** 91.54% accuracy | 0.9002 Macro F1-score.
 
-**Technologies:** Python, Machine Learning, Scikit-learn, LightGBM, SHAP.
+**Technologies:** Python, Scikit-learn, LightGBM, SHAP, Machine Learning.
 
 ### 🐾 PawHeaven — Pet Marketplace & Social Platform
 
