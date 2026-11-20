@@ -197,17 +197,29 @@ My work centers on **backend development**, **database-driven web apps**, and **
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=badhanamitroy&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="165" alt="GitHub Statistics"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=badhanamitroy&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="Most Used Languages"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=badhanamitroy&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
-
-<br/><br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=badhanamitroy&theme=tokyonight" alt="Profile Details" width="48%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=badhanamitroy&theme=tokyonight" alt="Repos per Language" width="48%"/>
+<table>
+  <tr>
+    <td align="center" valign="middle">
+      <img src="https://github-readme-stats.vercel.app/api?username=badhanamitroy&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="170" alt="GitHub Statistics"/>
+    </td>
+    <td align="center" valign="middle">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=badhanamitroy&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" alt="Most Used Languages"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle" colspan="2">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=badhanamitroy&theme=tokyonight&hide_border=true" height="170" alt="GitHub Contribution Streak"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=badhanamitroy&theme=tokyonight" height="185" alt="Profile Details"/>
+    </td>
+    <td align="center" valign="middle">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=badhanamitroy&theme=tokyonight" height="185" alt="Repos per Language"/>
+    </td>
+  </tr>
+</table>
 
 </div>
 
