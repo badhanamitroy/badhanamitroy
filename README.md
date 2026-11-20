@@ -111,6 +111,15 @@ My work centers on **backend development**, **database-driven web apps**, and **
     </td>
   </tr>
   <tr>
+    <td align="center"><b>🤖 AI-Assisted Dev</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Antigravity"/>
+      <img src="https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Codex"/>
+      <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot"/>
+      <img src="https://img.shields.io/badge/Agentic_Workflows-6C63FF?style=flat-square" alt="Agentic Workflows"/>
+    </td>
+  </tr>
+  <tr>
     <td align="center"><b>🔬 Interests</b></td>
     <td>
       <img src="https://img.shields.io/badge/Machine_Learning-6C63FF?style=flat-square" alt="Machine Learning"/>
