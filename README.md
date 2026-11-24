@@ -135,22 +135,6 @@ My work centers on **backend development**, **database-driven web apps**, and **
 
 ## 🚀 Selected Projects & Research
 
-### 🏨 [Crystal Horizon Hotel — Hotel Booking Management System](https://github.com/badhanamitroy/Hotel-Booking-Management-System)
-
-> An offline-first hotel management system for a small hotel: rooms, bookings, billing, and POS on a local PC.
-
-| | |
-|---|---|
-| 🏗️ **Architecture** | PHP 8.5 + MariaDB/MySQL, `public/` as the only web root, services in `src/`, numbered SQL migrations |
-| 🔐 **Security** | Argon2id + pepper, RBAC roles & permissions, CSRF protection, prepared statements, append-only audit log |
-| 🛏️ **Booking Integrity** | `room_nights` with `UNIQUE(room_id, night_date)` to prevent double-booking |
-| 💰 **Money Handling** | `DECIMAL(12,2)` in the DB + integer-paisa arithmetic in PHP (BDT) |
-| 🧾 **Billing Design** | Per-stay folio with append-only lines; voids as reversing entries |
-| 🧪 **Quality** | Checksummed migration runner, smoke tests, POS money tests |
-| 🚧 **Status** | Foundation phase done; booking, billing, POS & reports on the roadmap |
-
-`PHP` `MySQL / MariaDB` `RBAC` `Migrations` `POS`
-
 ---
 
 ### 🩺 DocBot 2026 — Explainable & Uncertainty-Aware Medical Decision Support
