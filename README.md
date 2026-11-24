@@ -23,9 +23,6 @@
   <a href="https://linkedin.com/in/badhan-roy-444a32250">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://badhan-roy-amit-portfolio-xx92.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Explore-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
   <a href="https://github.com/badhanamitroy">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
